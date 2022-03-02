@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix:"/Pickle-Tree",
   siteMetadata: {
     title: `Pickle Tree Keyboards`,
     author: {

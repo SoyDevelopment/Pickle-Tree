@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "gatsby": "^4.8.2",
+    "gatsby-cli": "^4.9.0",
     "gatsby-plugin-feed": "^4.8.0",
     "gatsby-plugin-gatsby-cloud": "^4.8.2",
     "gatsby-plugin-google-analytics": "^4.8.0",
@@ -45,6 +46,7 @@
     "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
   },
   "scripts": {
+    "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
