@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Pickle Tree Keyboards`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Joevany Martinez`,
+      summary: `Building custom keyboards for locals`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    description: `A blog where I can throw out my ideas and maybe get some requests!`,
+    siteUrl: `https://pickletree@joevany.me/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `pickletreekeebs`,
     },
   },
   plugins: [
