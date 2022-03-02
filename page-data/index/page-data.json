@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-index-js",
+    "path": "/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Pickle Tree Keyboards"}},"allMarkdownRemark":{"nodes":[{"excerpt":"Service Description Price Lubing Opening Switch and Applying Lube $0.25/switch","fields":{"slug":"/services/"},"frontmatter":{"date":"March 01, 2022","title":"Services Offered","description":"Pricing and List of Services we offer"}},{"excerpt":"Far far away, behind the word mountains, far from the countries Vokalia and\nConsonantia, there live the blind texts. Separated they live in…","fields":{"slug":"/soft-drink/"},"frontmatter":{"date":"March 01, 2022","title":"Soft Drink","description":"writing stuff to fill this part out for now"}}]}},"pageContext":{}},
+    "staticQueryHashes": ["2841359383","3257411868"]}

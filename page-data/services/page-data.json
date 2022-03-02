@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-blog-post-js",
+    "path": "/services/",
+    "result": {"data":{"site":{"siteMetadata":{"title":"Pickle Tree Keyboards"}},"markdownRemark":{"id":"7212ed5a-9a97-506e-820d-e10127c1f471","excerpt":"Service Description Price Lubing Opening Switch and Applying Lube $0.25/switch","html":"<table>\n<thead>\n<tr>\n<th align=\"left\"><strong>Service</strong></th>\n<th align=\"center\"><strong>Description</strong></th>\n<th align=\"right\"><strong>Price</strong></th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td align=\"left\">Lubing</td>\n<td align=\"center\">Opening Switch and Applying Lube</td>\n<td align=\"right\">$0.25/switch</td>\n</tr>\n</tbody>\n</table>","frontmatter":{"title":"Services Offered","date":"March 01, 2022","description":"Pricing and List of Services we offer"}},"previous":null,"next":{"fields":{"slug":"/soft-drink/"},"frontmatter":{"title":"Soft Drink"}}},"pageContext":{"id":"7212ed5a-9a97-506e-820d-e10127c1f471","previousPostId":null,"nextPostId":"71fe5485-0d67-556e-8d3a-44bc05c91ce7"}},
+    "staticQueryHashes": ["2841359383","3257411868"]}
